@@ -1,6 +1,2 @@
-c
-D
-d
-C
 #!/bin/bash
 touch hello
